@@ -3,7 +3,7 @@ first git clone from https://itstamen@github.com/itstamen/rop.git
  then fork to my git repository (https://github.com/iacdingping/rop)
  3, add and edit file git.test
  4, execute git remote add iacdp https://github.com/iacdingping/rop  To add remote git workspace
- 5, git push to my git repository execute git push iacdp-rop iacdp-rop/master  (master is default repository name, the clone default is origin)
+ 5, git push to my git repository execute git push origin iacdp-rop/master  (master is default operation 'git remote add' repository name, the clone default is origin)
  
  last check the file on my fork git repository
  
